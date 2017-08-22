@@ -1,0 +1,38 @@
+<resources>
+
+    <string name="app_name">DelitAPP</string>
+    <string name="description">Descripción</string>
+    <string name="user_name">Apellido:</string>
+    <string name="password">Contraseña:</string>
+    <string name="login">Iniciar Sesión</string>
+    <string name="logout">Cerrar Sesión</string>
+    <string name="registration">Registrarse</string>
+    <string name="icon">Icon</string>
+    <string name="title_activity_news">Noticias Recientes</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="uName">Nombre:</string>
+    <string name="Email">Correo Electrónico:</string>
+    <string name="Petition">Favor de llenar todos los campos de registro:</string>
+    <string name="LogInNotification">Sesión iniciada!!!</string>
+    <string name="FailLogIn">Inicio de sesión fallido!!</string>
+    <string name="LogInEmptyFields">Existen campos vacíos, favor revisar e intentar de nuevo</string>
+    <string name="FailReg">Intento de registro fallido.</string>
+    <string name="RegNotification">Usuario creado con exito!</string>
+    <string name="rating">Rating</string>
+    <string name="send">Enviar reporte</string>
+    <string name="select_pictures_title">Opciones de carga de imagen</string>
+    <string name="select_pictures_msg">Como desea seleccionar su imagen</string>
+    <string name="gallery">Galeria</string>
+    <string name="camera">Camara</string>
+    <string name="NotificationReg">La contraseña debe ser mayor a 6</string>
+    <string name="NotRep">Reportar delito!</string>
+    <string name="messageInsert">Toque el icono para adjuntar la imagen de un delito.</string>
+    <string name="NotShare">Compartiendo delito</string>
+    <string name="shareInfo">Delito compartido con DeliAPP</string>
+    <string name="shareRequest">Toque la imagen para compartir</string>
+    <string name="shareNotice">Esta imagen no dispone de un enlace para compartir</string>
+    <string name="shareTitle">Compartir con:</string>
+
+</resources>

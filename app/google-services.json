@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1045449979920",
+    "firebase_url": "https://delitapp-a68dd.firebaseio.com",
+    "project_id": "delitapp-a68dd",
+    "storage_bucket": "delitapp-a68dd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1045449979920:android:a5ac5cdc774f977f",
+        "android_client_info": {
+          "package_name": "com.example.faustino.delitapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1045449979920-gsqmbj9vbr3n6g5sc5rtunlu66ehapt1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.faustino.delitapp",
+            "certificate_hash": "29b7b0d127eaff8c50ab83a5d0ddd7b3a735b39b"
+          }
+        },
+        {
+          "client_id": "1045449979920-m3gknlgrcfptekj37fomk74s7b8c3e53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZ13f5AhIM5TwEfL5KBZh50f37D2xfx5g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1045449979920-m3gknlgrcfptekj37fomk74s7b8c3e53.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
